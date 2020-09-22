@@ -1,0 +1,23 @@
+{
+  "name": "restherokuapp",
+  "version": "1.0.0",
+  "description": "My Heroku App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbabal/RESTHEROKUAPP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbabal/RESTHEROKUAPP/issues"
+  },
+  "homepage": "https://github.com/sbabal/RESTHEROKUAPP#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
